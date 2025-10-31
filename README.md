@@ -27,7 +27,7 @@ Clone Project
   cd Amatiran-Portal-UMKM-Ketintang
 ```
 
-Open & Install sinicrita-web
+Open & Install Project
 ```bash
   npm install
 ```
