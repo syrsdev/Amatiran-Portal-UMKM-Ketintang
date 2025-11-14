@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "Mie Cak Cuk",
+    "description": "..",
+    "address": "Jl. Ketintang No.133 A, Wonokromo, Kec. Gayungan, Surabaya, Jawa Timur 60231",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.33667250656876!2d112.72955239999999!3d-7.310374299999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb77af6efaf9%3A0xd5234959f0b2ccc0!2sMie%20Cak%20Cuk!5e0!3m2!1sid!2sid!4v1763131814526!5m2!1sid!2sid",
+    "category": "makanan",
+    "gallery": [
+      "./images/umkm/cakcuk1.jpg",
+      "./images/umkm/cakcuk2.jpg",
+      "./images/umkm/cakcuk3.jpg",
+      "./images/umkm/cakcuk4.jpg",
+      "./images/umkm/cakcuk5.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kue Leker Pak NONO",
+    "description": "..",
+    "address": "Ketintang Tengah II, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d494.67502405516825!2d112.7269862!3d-7.3088581999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb444d86905f%3A0x5149380b0fce2cd4!2sKue%20Leker%20Pak%20NONO!5e0!3m2!1sid!2sid!4v1763135730568!5m2!1sid!2sid",
+    "category": "dessert",
+    "gallery": [
+      "./images/umkm/nono1.jpg",
+      "./images/umkm/nono2.jpg",
+      "./images/umkm/nono3.jpg",
+      "./images/umkm/nono4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nasi goreng Le",
+    "description": "....",
+    "address": "Jl. Ketintang Madya No.148, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.3890127077366!2d112.7220801745467!3d-7.310120071871866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb0017419b3f%3A0xbcfe01d77598e33d!2sNasi%20goreng%20Le!5e0!3m2!1sid!2sid!4v1763135854476!5m2!1sid!2sid",
+    "category": "makanan",
+    "gallery": [
+      "./images/umkm/le1.jpg",
+      "./images/umkm/le2.jpg",
+      "./images/umkm/le3.jpg",
+      "./images/umkm/le4.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bakso Lintang",
+    "description": "...",
+    "address": "Jl. Ketintang Madya II No.1B, Karah, Kec. Jambangan, Surabaya, Jawa Timur 60232",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1978.661959009552!2d112.7222865!3d-7.317463099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb4f5e36391f%3A0x1fa82ba5b583ff3f!2sBakso%20Lintang!5e0!3m2!1sid!2sid!4v1763136378368!5m2!1sid!2sid",
+    "category": "makanan",
+    "gallery": [
+      "./images/umkm/baksolintang1.jpg",
+      "./images/umkm/baksolintang2.jpg",
+      "./images/umkm/baksolintang3.jpg",
+      "./images/umkm/baksolintang4.jpg",
+      "./images/umkm/baksolintang5.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Nanana Juice Bar",
+    "description": "..",
+    "address": "Jl. Ketintang Madya No.157, Karah, Kec. Jambangan, Surabaya, Jawa Timur 60231",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1978.652923092182!2d112.7220062!3d-7.3195004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb9dc3f55355%3A0xd3e62f3595ff4fb!2sNanana%20Juice%20Bar!5e0!3m2!1sid!2sid!4v1763136513499!5m2!1sid!2sid",
+    "category": "minuman",
+    "gallery": [
+      "./images/umkm/nanana1.jpg",
+      "./images/umkm/nanana2.jpg",
+      "./images/umkm/nanana3.jpg",
+      "./images/umkm/nanana4.jpg",
+      "./images/umkm/nanana5.jpg",
+      "./images/umkm/nanana6.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sate Cak Fais",
+    "description": "...",
+    "address": "Jl. Ketintang Madya, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60232",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1593.4738793918805!2d112.72088572882883!3d-7.321984815785786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fbfb9143c79b%3A0x431b687d9eeb0c7!2sSate%20Cak%20Fais!5e0!3m2!1sid!2sid!4v1763137643204!5m2!1sid!2sid",
+    "category": "makanan",
+    "gallery": [
+      "./images/umkm/sate1.jpg",
+      "./images/umkm/sate2.jpg",
+      "./images/umkm/sate3.jpg",
+      "./images/umkm/sate4.jpg",
+      "./images/umkm/sate5.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Es Oyen & Tahu Gejrot Kang Iman",
+    "description": "...",
+    "address": "Jl. Ketintang Baru III No.22, RT.004/RW.02, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1978.6756555846896!2d112.73089549999999!3d-7.3143739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fba9c5502517%3A0x81140364d3fd9387!2sEs%20Oyen%20%26%20Tahu%20Gejrot%20Kang%20Iman!5e0!3m2!1sid!2sid!4v1763137778566!5m2!1sid!2sid",
+    "category": "makanan",
+    "gallery": [
+      "./images/umkm/iman1.jpg",
+      "./images/umkm/iman2.jpg",
+      "./images/umkm/iman3.jpg",
+      "./images/umkm/iman4.jpg",
+      "./images/umkm/iman5.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "SOTO AYAM LAMONGAN CAK BASIRAN",
+    "description": "...",
+    "address": "Jl. Ketintang Baru II No.19, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d989.3385879247!2d112.72971891427305!3d-7.314030931222184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fbf36445a231%3A0x46cb9fa0cda61995!2sSOTO%20AYAM%20LAMONGAN%20CAK%20BASIRAN!5e0!3m2!1sid!2sid!4v1763137913865!5m2!1sid!2sid",
+    "category": "makanan",
+    "gallery": [
+      "./images/umkm/basiran1.jpg",
+      "./images/umkm/basiran2.jpg",
+      "./images/umkm/basiran3.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Degan Ndhul Ketintang",
+    "description": "...",
+    "address": "Jl. Ketintang No.42, Ketintang, Kec. Gayungan, Surabaya, Jawa Timur 60231",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3250.0466692810523!2d112.7217180381958!3d-7.309490279106304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb33061b0fc5%3A0x3faabd74ffa89f23!2sDegan%20Ndhul%20Ketintang!5e0!3m2!1sid!2sid!4v1763139512105!5m2!1sid!2sid",
+    "category": "minuman",
+    "gallery": [
+      "./images/umkm/degan1.jpg",
+      "./images/umkm/degan2.jpg",
+      "./images/umkm/degan3.jpg",
+      "./images/umkm/degan4.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Hepi Terang Bulan",
+    "description": "...",
+    "address": "Jl. Ketintang Brt., Karah, Kec. Jambangan, Surabaya, Jawa Timur 60231",
+    "gmaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.399217957038!2d112.71634419678955!3d-7.30896819999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb196a50b5cf%3A0x66840b81118f045e!2sHepi%20Terang%20Bulan!5e0!3m2!1sid!2sid!4v1763139736231!5m2!1sid!2sid",
+    "category": "dessert",
+    "gallery": [
+      "/images/umkm/martabak1.jpg",
+      "/images/umkm/martabak2.jpg",
+      "/images/umkm/martabak3.jpg",
+      "/images/umkm/martabak4.jpg",
+      "/images/umkm/martabak5.jpg",
+      "/images/umkm/martabak6.jpg"
+    ]
+  }
+]
