@@ -1,19 +1,15 @@
 const Card = ({
-  img,
-  title,
-  slug,
+  p = "",
+  className = "",
+  children,
 }: {
-  img: string;
-  title: string;
-  slug: string;
+  p?: string;
+  className?: string;
+  children: React.ReactNode;
 }) => {
   return (
-    <div className="flex justify-between">
-      <img src={img} alt={title} />
-      <div className="flex flex-col gap-2">
-        <h3>{title}</h3>
-        <p>{slug}</p>
-      </div>
+    <div className={`bg-white rounded-lg ${className} ${p} w-full`}>
+      {children}
     </div>
   );
 };
